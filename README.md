@@ -1,4 +1,3 @@
-# Netflix-Content-Analyst-Dashboard
 # 🎬 Netflix Content Analysis Dashboard
 
 A professional and interactive **Netflix Content Analysis Dashboard** built in **Power BI**. This project analyzes Netflix's content library using interactive visualizations, KPIs, and slicers to uncover trends in movies, TV shows, genres, countries, and release years.
